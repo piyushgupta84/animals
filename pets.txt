@@ -2,3 +2,5 @@ Cats
 Dogs
 Snakes
 Chickens
+Ducks
+Rats
